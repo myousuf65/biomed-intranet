@@ -7,17 +7,19 @@ URL : quickconnect.to/biomedtech
 ### CHAI WAN NAS
 
 ```
-URL : quickconnect.to/biomedtech
+URL : quickconnect.to/biomedcw
 ```
 
-### STP NAS
+### CWB NAS
 
 ```
-URL : quickconnect.to/biomedtech
+URL : quickconnect.to/bmclinicserver
 ```
 
-### STP NAS
+### HR NAS
 
 ```
-URL : quickconnect.to/biomedtech
+- offline
+- connected to monica PC via USB
+- access link :
 ```
